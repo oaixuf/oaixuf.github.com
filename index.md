@@ -10,7 +10,7 @@ tagline:
 本博客由 [jekyll](https://github.com/mojombo/jekyll) 搭建.
 
 
-## 最近发布的文章
+### 最近发布的文章
 
 <ul class="posts">
   {% for post in site.posts %}
